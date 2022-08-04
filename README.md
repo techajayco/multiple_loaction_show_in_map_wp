@@ -1,0 +1,1 @@
+# multiple_loaction_show_in_map_wp
